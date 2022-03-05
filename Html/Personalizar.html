@@ -1,0 +1,48 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="EstiloForm.css">
+    <title>Formulario Pastel</title>
+</head>
+<body>
+    <form action="#">
+    <section class="Registro">
+        <h4>Usted lo planea, nosotros lo hacemos</h4>
+        <input class="Datos" type="text" name="Nombre" id="Nombres" placeholder="Ingrese su Nombre">
+        <input class="Datos" type="tel" name="Telefono" id="Telefono" placeholder="Ingrese su Telefono">
+        <input class="Datos" type="email" name="Correo" id="Correo" placeholder="Ingrese su Correo Electrónico">
+        <label for="Sabores" class="Opciones">Elige el sabor del PAN:</label>
+        <select multiple class ="Datos" name="Sabores" id="Sabores">
+            <option class="Sabores">Chocolate</option>
+            <option class="Sabores">Vainilla</option>
+            <option class="Sabores">Cajeta</option>
+            <option class="Sabores">Fresa</option>
+            <option class="Sabores">Café</option>
+            <option class="Sabores">Limon</option>
+            <option class="Sabores">Naranja</option>
+        </select>
+
+        <label for="Relleno" class="Opciones">Elige el sabor del RELLENO:</label>
+        <select multiple class ="Datos" name="Relleno" id="Relleno">
+            <option class="Sabores">Chocolate</option>
+            <option class="Sabores">Mermelada de mango</option>
+            <option class="Sabores">Cajeta</option>
+            <option class="Sabores">Mermelada de Fresa</option>
+        </select>
+
+        <label for="Relleno" class="Opciones">Elige el Tipo de adorno:</label>
+        <select multiple class ="Datos" name="Adornos" id="Adornos">
+            <option class="Sabores">Velas</option>
+            <option class="Sabores">Velas de número</option>
+            <option class="Sabores">Dibujos</option>
+            <option class="Sabores">Texto</option>
+        </select>
+        <input class="Enviar" type="submit" value="Enviar Pedido">
+    </section>
+</form>
+
+
+</body>
+</html>
