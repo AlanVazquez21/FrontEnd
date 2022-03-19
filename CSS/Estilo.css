@@ -1,0 +1,1021 @@
+.parte1{
+    margin: auto;
+    background-color: white;
+    width: 70%; 
+    height: 99.5%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.navegador{
+    margin: auto;
+    margin-top: 0;
+    background-color: red;
+    height: 100px;
+}
+
+.navegador ul{
+    margin-top: 0;
+    list-style: none;
+    background-color: white;
+    position: relative;
+    height: 100%;
+}
+
+.navegador ul li a{
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+#Hoax{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 66%;
+    background-color: #3757D5;
+    border-radius: 5px;
+    width: 9%;
+    top: 15%;
+    text-align: center;
+}
+
+#Hoax a{
+    color: white;
+}
+
+#Regulation{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 43%;
+    border-radius: 5px;
+    width: 8%;
+    top: 15%;
+    text-align: center;
+}
+
+#Regulation a{
+    color: #6a7891;
+}
+
+#News{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 24%;
+    border-radius: 5px;
+    width: 8%;
+    top: 15%;
+    text-align: center;
+}
+
+#News a{
+    color: #6a7891;
+}
+
+#Education{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 5%;
+    border-radius: 5px;
+    width: 8%;
+    top: 15%;
+    text-align: center;
+}
+
+#Education a{
+    color: #6a7891;
+}
+
+#Database{
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: -15%;
+    border-radius: 5px;
+    width: 8%;
+    top: 15%;
+    text-align: center;
+}
+
+#Database a{
+    color: #6a7891;
+}
+
+#Vaccination{    
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    border-radius: 5px;
+    text-align: center;
+    top: 15%;
+
+}
+
+#Vaccination a{
+    color: #3757D5;
+    font-size: x-large;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+#img1{
+    position: relative;
+    float: right;
+}
+
+.div1{
+    background-color: #E6f4fc;
+    width: 46%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    margin-top: 0;
+    box-shadow: #E6f4fc 3px;
+}
+
+.principal{
+    background-color: white;
+}
+
+#tema{
+    color: #1f3e72;
+    width: 40%;
+    font-size: 70px;
+    margin-left: 50px;
+    margin-top: 7%;
+}
+
+#p1{
+    color:#728097;
+    width: 33%;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.pavo{
+    height: 10%;
+}
+.pavo p{
+    position: relative;
+    top: 30%;
+    color: #1f3e72;
+    display: inline-block;
+}
+
+#besti{
+    margin-left: 4%;
+    position: relative;
+    top: 39%;
+}
+
+.cedula{
+    display: inline-block;
+    position: relative;
+    top: 5%;
+    color: #1f3e72;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#cedula{
+    position: relative;
+    top: 5.8%;
+    margin-left: 4%;
+}
+
+.datos ul{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    list-style: none;
+    background-color: white;
+    position: relative;
+    width: 68%;
+    height: 15%;
+    top: 30px;
+    left: 4%;
+}
+
+.datos ul li{
+    color: #728097;
+    font-size: 25px;
+
+}
+
+#locationi{
+    position: relative;
+    top: 30px;
+    left: 0%; 
+}
+
+#location{
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 0%;
+
+}
+
+#datei{
+    position: relative;
+    top: 30px;
+    left: -2%; 
+}
+
+#date{
+    position: relative;
+    display: inline-block;
+    left: -2%;
+    top: 20px;
+}
+
+#vaccinei{
+    position: relative;
+    display: inline-block;
+    left: 0%;
+    top: 30px;
+}
+
+#vaccine{
+    display: inline-block;
+    position: relative;
+    left: 62%;
+    top: -50px;
+}
+
+#jakarta{
+    color: #1f3e72;
+    display: inline-block;
+    position:relative;
+    top: 45%;
+    left: -10%;
+    font-size: 22px;
+}
+
+#july{
+    color: #1f3e72;
+    display: inline-block;
+    position:relative;
+    top: 45%;
+    left: -6%;
+    font-size: 22px;
+}
+
+#moderna{
+    color: #1f3e72;
+    display: inline-block;
+    position:relative;
+    top: -7%;
+    margin-left: 47%;
+    font-size: 22px;
+}
+
+#boton{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+    background-color:#3757D5;
+    width: 130px;
+    height: 50px;
+    border-radius: 5px;
+    position: relative;
+    left: 63%;
+    top: -80px;
+}
+
+#astra{
+    position: relative;
+    left: 19%;
+    top: 5%;
+}
+
+#sino{
+    position: relative;
+    left: 24%;
+    top: 5%;
+}
+
+#pfizer{
+    position: relative;
+    left: 30%;
+    top: 5%;
+}
+
+#moderna2{
+    position: relative;
+    left: 37%;
+    top: 6.5%;
+}
+
+.parte2{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin-top: 7%;
+    margin-left: 15%;
+    width: 70%;
+}
+
+#why{
+    display: inline-block;
+    margin-left: 5%;
+    font-size: 40px;
+    color:#1f3e72;
+}
+
+#in{
+    color: #6a7891;
+    margin-left: 5%;
+    width: 38%;
+    font-size: 18px;
+}
+
+.datos2 ul{
+    list-style: none;
+}
+
+.minimize{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    margin-top: 5%;
+    margin-left: 4%;
+    width: 20%;
+    height: 33%;
+    border-radius: 5px;
+}
+
+#minimizei{
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+#minimize{
+    color: #1f3e72;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 23px;
+}
+
+#minimizep{
+    color: #6a7891;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.farming{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    margin-top: -23.9%;
+    margin-left: 26%;
+    width: 20%;
+    height: 33%;
+    border-radius: 5px;
+    box-shadow: 0px 5px 5px #3757D5;
+}
+
+#farmingi{
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+#farming{
+    color: #1f3e72;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 23px;
+}
+
+#farmingp{
+    color: #6a7891;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.protect{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    margin-top: -23.8%;
+    margin-left: 48%;
+    width: 20%;
+    height: 33%;
+    border-radius: 5px;
+}
+
+#protecti{
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+#protect{
+    color: #1f3e72;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 23px;
+}
+
+#protectp{
+    color: #6a7891;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.create{
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    margin-top: -23.8%;
+    margin-left: 70%;
+    width: 20%;
+    height: 33%;
+    border-radius: 5px;
+}
+
+#createi{
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+
+#create{
+    color: #1f3e72;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 23px;
+}
+
+#createp{
+    color: #6a7891;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.parte3{
+    margin: auto;
+    width: 70%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.señora{
+    display: inline-block;
+    width: 40%;
+    margin-top: 20%;
+}
+
+.principal3{
+    position: relative;
+    width: 60%;
+    margin-left: 40%;
+    margin-top: -52%;
+}
+
+#preparation{
+    margin-left: 7%;
+    font-size: 40px;
+    color:#1f3e72;
+}
+
+#the{
+    color: #728097;
+    margin-left: 7%;
+    width: 68%;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.datos3{
+    width: 60%;
+    margin-left: 40%;
+}
+
+.datos3 ul{
+    list-style: none;
+}
+
+.uno{
+    height: 6%;
+    width: 60%;
+    margin-top: 6.5%;
+    margin-left: 2%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+}
+
+#unoi{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+#uno{
+    color: #1f3e72;
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -18%;
+    left: 3%;
+}
+
+#unoi2{
+    position: relative;
+    top: -10%;
+    left: 23%;
+}
+
+
+.dos{
+    height: 16.5%;
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 2%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    box-shadow: 0px 5px 5px #3757D5;
+}
+
+#dosi{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+#dos{
+    color: #1f3e72;
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -8%;
+    left: 3%;
+}
+
+#dosi2{
+    position: relative;
+    top: -75%;
+    left: 89%;
+}
+
+#dosp{
+    color: #6a7891;
+    width: 70%;
+    position: relative;
+    font-size: 13px;
+    left: 17%;
+    line-height: 20px;
+}
+
+
+.tres{
+    height: 6%;
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 2%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+}
+
+#tresi{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+#tres{
+    color: #1f3e72;
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -18%;
+    left: 3%;
+}
+
+#tresi2{
+    position: relative;
+    top: -10%;
+    left: 43%;
+}
+
+
+.cuatro{
+    height: 6%;
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 2%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+}
+
+#cuatroi{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+#cuatro{
+    color: #1f3e72;
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -18%;
+    left: 3%;
+}
+
+#cuatroi2{
+    position: relative;
+    top: -10%;
+    left: 40%;
+}
+
+
+.cinco{
+    height: 6%;
+    width: 60%;
+    margin-top: 1%;
+    margin-left: 2%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+}
+
+#cincoi{
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+#cinco{
+    color: #1f3e72;
+    display: inline-block;
+    font-size: 18px;
+    position: relative;
+    top: -18%;
+    left: 3%;
+}
+
+#cincoi2{
+    position: relative;
+    top: -10%;
+    left: 18%;
+}
+
+.parte4{
+    width: 70%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.señor{
+    position: relative;
+    right: -60%;
+    margin-top: 20%;
+    width: 40%;
+}
+
+.principal4{
+    width: 35%;
+    margin-left: 10%;
+    margin-top: -51%;
+    font-size: 25px;
+    color:#1f3e72;
+}
+
+#principalp{
+    color: #728097;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.call{
+    display: inline-block;
+    height: 20%;
+    width: 15%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+#calli{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.call h5{
+    color: #1f3e72;
+    display: inline-block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin-left: 5%;
+    position: relative;
+    top: -13%;
+}
+
+.call p{
+    color: #6a7891;
+    display: inline-block;
+    font-size: 12px;
+    position: relative;
+    left: 40%;
+    top: -36%;
+}
+
+.call button{
+    width: 80%;
+    height: 25%;
+    margin-left: 10%;
+    position: relative;
+    top: -25%;
+    background-color: #f1f5ff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    color: #3757D5;
+    border-radius: 5px;
+}
+
+
+.chat{
+    height: 20%;
+    width: 15%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    margin-left: 28%;
+    margin-top: -14.1%;
+}
+
+#chati{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.chat h5{
+    color: #1f3e72;
+    display: inline-block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin-left: 5%;
+    position: relative;
+    top: -13%;
+}
+
+.chat p{
+    color: #6a7891;
+    display: inline-block;
+    font-size: 12px;
+    position: relative;
+    left: 40%;
+    top: -36%;
+}
+
+.chat button{
+    width: 80%;
+    height: 25%;
+    margin-left: 10%;
+    position: relative;
+    top: -25%;
+    background-color: #3757D5;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    color: #f1f5ff;
+    border-radius: 5px;
+}
+
+
+.videocall{
+    height: 20%;
+    width: 15%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    position: relative;
+    top: 20%;
+    margin-left: 10%;
+    margin-top: 3%
+}
+
+#videoi{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.videocall h5{
+    color: #1f3e72;
+    display: inline-block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin-left: 5%;
+    position: relative;
+    top: -13%;
+}
+
+.videocall p{
+    color: #6a7891;
+    display: inline-block;
+    font-size: 12px;
+    position: relative;
+    left: 40%;
+    top: -36%;
+}
+
+.videocall button{
+    width: 80%;
+    height: 25%;
+    margin-left: 10%;
+    position: relative;
+    top: -25%;
+    background-color: #f1f5ff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    color: #3757D5;
+    border-radius: 5px;
+}
+
+
+.message{
+    height: 20%;
+    width: 15%;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#728097;
+    margin-left: 28%;
+    margin-top: -14.1%;
+}
+
+#mensajei{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.message h5{
+    color: #1f3e72;
+    display: inline-block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    margin-left: 5%;
+    position: relative;
+    top: -13%;
+}
+
+.message p{
+    color: #6a7891;
+    display: inline-block;
+    font-size: 12px;
+    position: relative;
+    left: 40%;
+    top: -36%;
+}
+
+.message button{
+    width: 80%;
+    height: 25%;
+    margin-left: 10%;
+    position: relative;
+    top: -25%;
+    background-color: #f1f5ff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    color: #3757D5;
+    border-radius: 5px;
+}
+
+.piepagina{
+    background-color: #eef3ff ;
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.vaccination{
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 3%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    width: 15%;
+    color: #728097;
+}
+
+#vaccination1{
+    color: #3757D5;
+    display: inline-block;
+}
+
+.about ul{
+    list-style: none;
+}
+
+.company ul{
+    list-style: none;
+}
+
+.support ul{
+    list-style: none;
+}
+
+.about{
+    color: #1f3e72;
+    font-family: 'Ubuntu', sans-serif;
+    display: inline-block;
+    position: relative;
+    margin-left: 32%;
+    top: 25px;
+}
+
+#about{
+    color: #6a7891;
+    position: relative;
+    right: 39%;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+.company{
+    color: #1f3e72;
+    font-family: 'Ubuntu', sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    margin-left: 1%;
+}
+
+#company{
+    color: #6a7891;
+    position: relative;
+    right: 33%;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+.support{
+    color: #1f3e72;
+    font-family: 'Ubuntu', sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    margin-left: 1%;
+}
+
+#support{
+    color: #6a7891;
+    position: relative;
+    right: 33%;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+#pp1{
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 10%;
+    color: #6a7891;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#pp2{
+    display: inline-block;
+    margin-left: 42%;
+    color: #6a7891;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#pp3{
+    display: inline-block;
+    margin-left: 2%;
+    font-family: 'Ubuntu', sans-serif;
+    color: #6a7891;
+}
